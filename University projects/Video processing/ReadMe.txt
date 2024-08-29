@@ -5,3 +5,6 @@ Course exercises are implemented using both Python and MATLAB. The assignments a
 
 
 https://books.google.com/books/about/Video_Processing_and_Communications.html?id=USAfAQAAIAAJ
+
+
+https://yazd.ac.ir/people/ghanei
