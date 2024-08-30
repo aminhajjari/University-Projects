@@ -51,7 +51,15 @@ __Dependencies__
 
 
 __PCA__
+
+
 ![Screenshot 2024-08-30 091847](https://github.com/user-attachments/assets/d48161de-da29-42a4-adb2-c0b7431fff7e)
+
+
+__LDA & KNN__
+
+
+
 
 
 
