@@ -60,6 +60,12 @@ __LDA & KNN__
 
 
 
+![Screenshot 2024-08-30 092808](https://github.com/user-attachments/assets/870ede6c-ca1c-4728-9a34-57936944646f)
+
+![Screenshot 2024-08-30 092832](https://github.com/user-attachments/assets/1ad5a1cc-bc60-4c73-ab8f-743641d4a39a)
+
+![Screenshot 2024-08-30 092850](https://github.com/user-attachments/assets/0be6037e-4d43-4577-91c9-2768b5c547c1)
+
 
 
 
