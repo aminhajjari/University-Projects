@@ -21,7 +21,9 @@ This project is part of an exercise similar to one from Queen’s University in 
 __Data Implementation: Utilize the MNIST dataset.__
 
 __Classification Method:__ Apply the KNN method for classification.
+
 __Feature Extraction:__ Reduce data dimensions using PCA (Principal Component Analysis) and LDA (Linear Discriminant Analysis).
+
 __Steps__
 
 __1-Data Loading: Load the MNIST dataset.__
