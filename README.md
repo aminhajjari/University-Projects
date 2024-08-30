@@ -37,3 +37,11 @@ __2-Feature Extraction:__
 __Classification:__ Use the KNN method to classify the digits based on the extracted features.
 
 __Evaluation:__ Assess the performance of the classification model.
+
+
+__Dependencies__
+
+.Python 3.x
+.NumPy
+.scikit-learn
+.matplotlib
