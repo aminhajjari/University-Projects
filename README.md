@@ -8,20 +8,21 @@ Welcome to the Yazd University Programming Projects repository. This collection 
 Of course, it will be more complete in the following semesters (by taking other courses).
 
 
-Pattern recognition/Final
-Digit Recognition System
+__1-Pattern recognition/Final Project__
+
+__Digit Recognition System__
 This project implements a digit recognition system using the MNIST dataset. The system employs the K-Nearest Neighbors (KNN) method for diagnosis and classification. Prior to classification, dimensionality reduction is performed using feature extraction methods.
 
-Overview
+__Overview__
 This project is part of an exercise similar to one from Queen’s University in Canada. The main objectives are:
 
-Data Implementation: Utilize the MNIST dataset.
+__Data Implementation: Utilize the MNIST dataset.__
 Classification Method: Apply the KNN method for classification.
 Feature Extraction: Reduce data dimensions using PCA (Principal Component Analysis) and LDA (Linear Discriminant Analysis).
-Steps
-Data Loading: Load the MNIST dataset.
-Feature Extraction:
-PCA: Reduce dimensions to retain the most significant features.
-LDA: Further reduce dimensions while maximizing class separability.
-Classification: Use the KNN method to classify the digits based on the extracted features.
+__Steps__
+__1-Data Loading: Load the MNIST dataset.__
+__2-Feature Extraction:__
+          __PCA__: Reduce dimensions to retain the most significant features.
+          __LDA__: Further reduce dimensions while maximizing class separability.
+__Classification:__ Use the KNN method to classify the digits based on the extracted features.
 Evaluation: Assess the performance of the classification model.
