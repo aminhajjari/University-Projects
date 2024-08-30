@@ -42,6 +42,9 @@ __Evaluation:__ Assess the performance of the classification model.
 __Dependencies__
 
 .Python 3.x
+
 .NumPy
+
 .scikit-learn
+
 .matplotlib
