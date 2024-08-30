@@ -27,19 +27,13 @@ __Feature Extraction:__ Reduce data dimensions using PCA (Principal Component An
 __Steps__
 
 __1-Data Loading: Load the MNIST dataset.__
+
 __2-Feature Extraction:__
+
           __PCA__: Reduce dimensions to retain the most significant features.
           __LDA__: Further reduce dimensions while maximizing class separability.
 
-
-
-
-
-
-
-
-
-
           
 __Classification:__ Use the KNN method to classify the digits based on the extracted features.
-Evaluation: Assess the performance of the classification model.
+
+__Evaluation:__ Assess the performance of the classification model.
